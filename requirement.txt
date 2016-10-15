@@ -1,7 +1,7 @@
 h5py
 ipython
 jupyter
-Keras
+keras
 matplotlib
 nose
 numpy
