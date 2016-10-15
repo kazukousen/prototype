@@ -1,0 +1,15 @@
+h5py
+ipython
+jupyter
+Keras
+matplotlib
+nose
+numpy
+pandas
+Pillow
+pydot-ng
+scikit-learn
+scipy
+seaborn
+Theano
+
